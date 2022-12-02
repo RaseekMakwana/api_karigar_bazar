@@ -2,21 +2,21 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Api\v1\VendorCategoryServiceController;
-use App\Http\Controllers\Api\v1\StateController;
-use App\Http\Controllers\Api\v1\CityController;
-use App\Http\Controllers\Api\v1\AreaController;
-use App\Http\Controllers\Api\v1\CategoryController;
-use App\Http\Controllers\Api\v1\ServiceController;
-use App\Http\Controllers\Api\v1\VendorController;
-use App\Http\Controllers\Api\v1\UserController;
-use App\Http\Controllers\Api\v1\MetadataController;
-use App\Http\Controllers\Api\v1\AuthenticationController;
-use App\Http\Controllers\Api\v1\VendorServiceController;
-use App\Http\Controllers\Api\v1\ExtraController;
-use App\Http\Controllers\Api\v1\DeviceController;
-use App\Http\Controllers\Api\v1\HomepageController;
-use App\Http\Controllers\Api\v1\PostYourRequirementController;
+use App\Http\Controllers\V1\VendorCategoryServiceController;
+use App\Http\Controllers\V1\StateController;
+use App\Http\Controllers\V1\CityController;
+use App\Http\Controllers\V1\AreaController;
+use App\Http\Controllers\V1\CategoryController;
+use App\Http\Controllers\V1\ServiceController;
+use App\Http\Controllers\V1\VendorController;
+use App\Http\Controllers\V1\UserController;
+use App\Http\Controllers\V1\MetadataController;
+use App\Http\Controllers\V1\AuthenticationController;
+use App\Http\Controllers\V1\VendorServiceController;
+use App\Http\Controllers\V1\ExtraController;
+use App\Http\Controllers\V1\DeviceController;
+use App\Http\Controllers\V1\HomepageController;
+use App\Http\Controllers\V1\PostYourRequirementController;
 
 
 

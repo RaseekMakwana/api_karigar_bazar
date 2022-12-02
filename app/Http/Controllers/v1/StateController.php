@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Api\v1;
+namespace App\Http\Controllers\V1;
 
 use DB;
 use App\Http\Controllers\Controller;

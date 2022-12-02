@@ -133,7 +133,7 @@ class ExtraController extends Controller
         $response = [
             "app_logo" => "https://storage.karigarbazar.com/assets/logos/logo-64.png",
             "play_store_url" => "https://play.google.com/store/apps/details?id=com.dashmobo.karigar.bazar",
-            "customer_support_number" => "+91 9898079641",
+            "customer_support_number" => "+91 9409609305",
             "website_url" => "https://karigarbazar.com",
             "share_app_english_message" =>"*Join for free.* Any craftsman can join this app. So that people contact you for work. You get contact in your own city. You can present your works.  Below is the link to join.",
         ];

@@ -122,8 +122,8 @@ class ExtraController extends Controller
 
     public function check_app_update(Request $request){
         $response['status'] = "1";
-        $response['version'] = "1";
-        $response['force_update'] = false;
+        $response['version'] = "2";
+        $response['force_update'] = true;
         $response['title'] = 'Update Available';
         $response['message'] = 'New version of this app is available, please update now!';
         _response($response);
